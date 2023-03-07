@@ -2,7 +2,7 @@ import telebot
 
 from telebot import types
 
-bot = telebot.TeleBot('6227569665:AAFQhO9yDyTJTbPayvecfpIKIa4eP0QkGFo')
+bot = telebot.TeleBot('')
 
 name = ''
 age = 0
